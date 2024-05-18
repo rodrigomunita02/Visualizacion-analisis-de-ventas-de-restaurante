@@ -20,4 +20,12 @@ El objetivo de este proyecto es analizar las ventas de un restaurante para ident
 
 El análisis de datos se complementa con una visualización interactiva generada en Tableau. Esta visualización proporciona una representación gráfica detallada de las ventas del restaurante, permitiendo explorar los datos y identificar tendencias y patrones que puedan estar afectando las ganancias.
 
+## Conclusión
+
+Las causas de la disminución de las ganancias se identificaron como:
+
+- Bajas ventas de bebestibles, especialmente los vinos.
+- Disminución de ventas entre los clientes antiguos.
+- Atención deficiente de un mesero específico, quien a diferencia de los demás, solo obtiene propinas de clientes nuevos pero no de clientes antiguos.
+
 [Visualización en Tableau](https://public.tableau.com/views/AnalisisVentasRestaurante/Dashboard1?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
